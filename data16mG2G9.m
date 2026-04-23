@@ -1,4 +1,4 @@
-function [Data] = data16m_git()
+function [Data] = data16mG2G9()
 % data16m.m (16 Machine System Data)
 % This is a 16-machine system with 86 transmission lines and
 % 68 buses. Data are extracted from the GE final report
